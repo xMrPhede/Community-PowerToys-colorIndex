@@ -11,7 +11,7 @@ Tiny PowerToys Run plugin that turns any #RGB/#RRGGBB hex code into an instant 
 
 Install: 
 1. Download last [release](https://github.com/xMrPhede/Community-PowerToys-colorIndex/releases)
-2. Go to '%LOCALAPPDATA%\Microsoft\PowerToys\PowerToys Run\Plugins'
+2. Go to `%LOCALAPPDATA%\Microsoft\PowerToys\PowerToys Run\Plugins`
 3. Copy the content of the zip file to the Plugins folder
 4. Restart PowerToys.
 
